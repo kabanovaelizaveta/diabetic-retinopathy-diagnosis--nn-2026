@@ -77,7 +77,7 @@ Diabetic retinopathy is one of the leading causes of blindness worldwide. Reliab
 
 ## Methodology
 
-![Methodology](<img width="1143" height="522" alt="methodology" src="https://github.com/user-attachments/assets/27c973ab-9b56-46bc-9f5b-1d2a739b8e8d" />)
+![Methodology](figures/methodology.png)
 
 ---
 
@@ -110,19 +110,19 @@ A novel metric combining:
 
 ## Key Results
 
-- Best model: **B1 configuration**  
-  (Focal Loss + Adaptive CBAM + Monte Carlo Dropout)  
+- Best model: B1 configuration  
+  (Focal Loss + Adaptive CBAM + Monte Carlo Dropout).
 - Metrics:
-  - QWK: **0.92**  
-  - Accuracy: **0.85**  
-  - F1-score: **0.85**  
-  - AUC: **0.97**
+  - QWK: 0.92;  
+  - Accuracy: 0.85;  
+  - F1-score: 0.85;
+  - AUC: 0.97.
 - Key improvements:
-  - better minority class detection  
-  - higher prediction stability  
-  - reduced uncertainty  
+  - better minority class detection; 
+  - higher prediction stability;
+  - reduced uncertainty. 
 
-![Confusion Matrix](![conf_matrix_B1_full](https://github.com/user-attachments/assets/014292f6-e342-4f87-a5eb-3117b57db3b4))
+![Confusion Matrix](figures/B1/conf_matrix_B1_full.jpg)
 
 ---
 
