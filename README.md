@@ -77,7 +77,7 @@ Diabetic retinopathy is one of the leading causes of blindness worldwide. Reliab
 
 ## Methodology
 
-<!-- ![Methodology](images/pipeline.png) -->
+![Methodology](<img width="1143" height="522" alt="methodology" src="https://github.com/user-attachments/assets/27c973ab-9b56-46bc-9f5b-1d2a739b8e8d" />)
 
 ---
 
@@ -99,7 +99,7 @@ Four configurations:
 
 ---
 
-## Reliability Score (Proposed)
+## Reliability Score
 
 A novel metric combining:
 - classification quality (QWK);
@@ -122,8 +122,7 @@ A novel metric combining:
   - higher prediction stability  
   - reduced uncertainty  
 
-<!-- ![Confusion Matrix](images/confusion_matrix.png) -->
-<!-- ![Reliability Score](images/reliability_score.png) -->
+![Confusion Matrix](![conf_matrix_B1_full](https://github.com/user-attachments/assets/014292f6-e342-4f87-a5eb-3117b57db3b4))
 
 ---
 
